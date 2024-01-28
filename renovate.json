@@ -1,1 +1,4 @@
-"bundler": { "enabled": true }
+{ 
+  "bundler": { "enabled": true },
+"forkProcessing": "enabled" 
+}
